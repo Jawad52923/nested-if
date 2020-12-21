@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\nested if\nested if\bin\Debug\nested if.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested if\nested if\bin\Debug\nested if.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\nested if\nested if\obj\x86\Debug\nested if.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested if\nested if\obj\x86\Debug\nested if.pdb
+C:\Users\Tabish\Desktop\pf lec\nested if\nested if\obj\x86\Debug\nested if.exe
+C:\Users\Tabish\Desktop\pf lec\nested if\nested if\obj\x86\Debug\nested if.pdb

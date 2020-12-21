@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\nested do-while\nested do-while\bin\Debug\nested do-while.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested do-while\nested do-while\bin\Debug\nested do-while.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\nested do-while\nested do-while\obj\x86\Debug\nested do-while.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested do-while\nested do-while\obj\x86\Debug\nested do-while.pdb
+C:\Users\Tabish\Desktop\pf lec\nested do-while\nested do-while\obj\x86\Debug\nested do-while.exe
+C:\Users\Tabish\Desktop\pf lec\nested do-while\nested do-while\obj\x86\Debug\nested do-while.pdb
